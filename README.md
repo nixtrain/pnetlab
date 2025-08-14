@@ -13,7 +13,7 @@ Petunjuk Instalasi PNETLab dari Nixtrain
    - Username/Password Browser: admin/pnet
    - Username/Password CLI : root/pnet
 6. Selesai
-7. Jika ada kesulitan atau kendala dan membutuhkan support dari Nixtrain, Anda dapat bergabung di <a href="https://chat.whatsapp.com/Bt6qe8vqG2F2gIUB31iAlJ" target="_blank">Group Whatsapp Nixtrain - Cisco Academy</a>
+7. Jika ada kesulitan atau kendala dan membutuhkan support dari Nixtrain dapat bergabung di <a href="https://chat.whatsapp.com/Bt6qe8vqG2F2gIUB31iAlJ" target="_blank">Group Whatsapp Nixtrain - Cisco Academy</a>
 
 # Detail Pnet-nixtrain.ova
 PNETLab Version: 5.3.13
@@ -29,3 +29,8 @@ Docker.io:
 - pnetlab/pnet-wireshark:latest
 
 Virtual PC (VPCS)
+
+# Import Topology PNETLab
+
+- Topology X.png : gambar topology yang di screenshot dari PNETLab
+- Topology X.zip : file topology PNETLab yang dapat di import kedalam PNETLab untuk ngelab. Pastikan images PNETLab yang digunakan sama atau dapat disesuaikan dengan setup images masing-masing.
