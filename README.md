@@ -1,5 +1,5 @@
 # pnetlab
-Petunjuk Instalasi PNETLab Dari Nixtrain
+Petunjuk Instalasi PNETLab dari Nixtrain
 1. Download semua file yang ada di <a href="https://drive.google.com/drive/folders/1dpBhnksEp5toj1kT3NPTOx-jl2nKyNJY?usp=sharing" target="_blank">Google Drive</a>
 2. Lakukan instalasi sesuai urutan :
    - SecureCRT
