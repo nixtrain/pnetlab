@@ -1,4 +1,4 @@
-# PNETlab
+# PNETLab
 Petunjuk Instalasi PNETLab dari Nixtrain
 1. Download semua file yang ada di <a href="https://drive.google.com/drive/folders/1dpBhnksEp5toj1kT3NPTOx-jl2nKyNJY?usp=sharing" target="_blank">Google Drive</a>
 2. Lakukan instalasi sesuai urutan :
@@ -15,3 +15,17 @@ Petunjuk Instalasi PNETLab dari Nixtrain
 6. Selesai
 7. Jika ada kesulitan atau kendala dan membutuhkan support dari Nixtrain, Anda dapat bergabung di <a href="https://chat.whatsapp.com/Bt6qe8vqG2F2gIUB31iAlJ" target="_blank">Group Whatsapp Nixtrain - Cisco Academy</a>
 
+# Detail Pnet-nixtrain.ova
+PNETLab Version: 5.3.13
+
+IOL:
+- i86bi_Linux-L2-AdvEnterpriseK9-M_152_May_2018.bin
+- i86bi_LinuxL3-AdvEnterpriseK9-M2_157_3_May_2018.bin
+
+Qemu:
+- win-10-x64-lite
+
+Docker.io:
+- pnetlab/pnet-wireshark:latest
+
+Virtual PC (VPCS)
