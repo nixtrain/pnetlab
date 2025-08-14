@@ -1,6 +1,6 @@
 # pnetlab
 Petunjuk Instalasi PNETLab Dari Nixtrain
-1. Download semua file yang ada di Google Drive
+1. Download semua file yang ada di <a href="https://drive.google.com/drive/folders/1dpBhnksEp5toj1kT3NPTOx-jl2nKyNJY?usp=sharing" target="_blank">Google Drive</a>
 2. Lakukan instalasi sesuai urutan :
    - SecureCRT
    - Putty
@@ -13,5 +13,5 @@ Petunjuk Instalasi PNETLab Dari Nixtrain
    - Username/Password Browser: admin/pnet
    - Username/Password CLI : root/pnet
 6. Selesai
-7. Jika ada kesulitan / kendala dan membutuhkan support dari Nixtrain, Anda dapat bergabung digroup whatsapp Nixtrain - Cisco Academy : 
+7. Jika ada kesulitan atau kendala dan membutuhkan support dari Nixtrain, Anda dapat bergabung di <a href="https://chat.whatsapp.com/Bt6qe8vqG2F2gIUB31iAlJ" target="_blank">Group Whatsapp Nixtrain - Cisco Academy</a>
 
